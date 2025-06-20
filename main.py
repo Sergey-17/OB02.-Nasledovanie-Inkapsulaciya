@@ -1,3 +1,4 @@
+# ДЗ
 class User:
     def __init__(self, user_id: int, name: str):
         self._user_id = user_id
